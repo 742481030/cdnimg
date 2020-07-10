@@ -5145,7 +5145,7 @@ body.mdui-locked {
   font-style: normal;
   font-weight: 400;
 
-  src: local('Roboto Regular'), local('Roboto-Regular'), url('../fonts/roboto/Roboto-Regular.woff2') format('woff2'), url('../fonts/roboto/Roboto-Regular.woff') format('woff');
+  src: local('Roboto Regular'), local('Roboto-Regular'), url('https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/fonts/roboto/Roboto-Regular.woff2') format('woff2'), url('../fonts/roboto/Roboto-Regular.woff') format('woff');
 }
 @font-face {
   font-family: 'Roboto';
